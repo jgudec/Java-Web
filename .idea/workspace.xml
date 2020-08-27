@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="phoneShop:war exploded" />
+      <artifact name="phoneShop:war" />
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7c66da60-8cee-40a8-8669-bb72c865a82e" name="Default" comment="" />
+    <list default="true" id="7c66da60-8cee-40a8-8669-bb72c865a82e" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -386,7 +389,7 @@
       <workItem from="1598287975860" duration="35000" />
       <workItem from="1598288069326" duration="8342000" />
       <workItem from="1598352614020" duration="515000" />
-      <workItem from="1598524929418" duration="3597000" />
+      <workItem from="1598524929418" duration="4900000" />
     </task>
     <servers />
   </component>
