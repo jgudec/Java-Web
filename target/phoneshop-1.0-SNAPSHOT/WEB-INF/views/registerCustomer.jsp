@@ -109,5 +109,7 @@
         <a href="<c:url value="/" />" class="btn btn-default">Cancel</a>
         </form:form>
 
+        <br><br>
+
 
         <%@include file="/WEB-INF/views/template/footer.jsp" %>

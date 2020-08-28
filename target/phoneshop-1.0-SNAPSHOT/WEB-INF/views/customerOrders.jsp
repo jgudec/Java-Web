@@ -26,7 +26,7 @@
                 <tr>
                     <td>${customerOrder.date}</td>
                     <td>Paypal/Card</td>
-                    <td>${customerOrder.cart.grandTotal} USD</td>
+                    <td>${customerOrder.totalPayment} USD</td>
                 </tr>
             </c:forEach>
 

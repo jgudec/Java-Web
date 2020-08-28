@@ -34,6 +34,16 @@ public class CustomerOrder implements Serializable{
 
     private String date;
 
+    private double totalPayment;
+
+    public double getTotalPayment() {
+        return totalPayment;
+    }
+
+    public void setTotalPayment(double totalPayment) {
+        this.totalPayment = totalPayment;
+    }
+
     public String getDate() {
         return date;
     }

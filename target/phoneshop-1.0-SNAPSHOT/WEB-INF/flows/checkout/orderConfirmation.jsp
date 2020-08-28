@@ -7,6 +7,7 @@
 <div class="container-wrapper">
     <div class="container">
         <div class="page-header">
+            <br><br><br><br>
             <h1>Order</h1>
 
             <p class="lead">Order confirmation.</p>
@@ -112,6 +113,8 @@
                 </form:form>
             </div>
         </div>
+
+        <br><br>
 
 
 <%@include file="/WEB-INF/views/template/footer.jsp" %>

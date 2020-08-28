@@ -23,6 +23,7 @@
                    class="btn btn-success pull-right"><span class="glyphicon-shopping-cart glyphicon"></span> Check out
                 </a>
             </div>
+                <br>
 
             <table class="table table-hover">
                 <tr>

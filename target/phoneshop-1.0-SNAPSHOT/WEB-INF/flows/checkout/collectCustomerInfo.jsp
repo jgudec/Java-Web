@@ -5,6 +5,7 @@
 <div class="container-wrapper">
     <div class="container">
         <div class="page-header">
+            <br><br><br><br>
             <h1>Customer</h1>
 
             <p class="lead">Customer details.</p>
@@ -66,6 +67,8 @@
         <input type="submit" value="Next" class="btn btn-default" name="_eventId_customerInfoCollected">
         <button class="btn btn-default" name="_eventId_cancel">Cancel</button>
         </form:form>
+
+        <br><br>
 
 
         <%@include file="/WEB-INF/views/template/footer.jsp" %>

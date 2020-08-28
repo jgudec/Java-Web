@@ -33,6 +33,7 @@ public class OrderController {
         CustomerOrder customerOrder = new CustomerOrder();
         Cart cart = cartService.getCartById(cartId);
         customerOrder.setCart(cart);
+        customerOrder.setTotalPayment(cart.getGrandTotal());
 
         Customer customer = cart.getCustomer();
         customerOrder.setCustomer(customer);
